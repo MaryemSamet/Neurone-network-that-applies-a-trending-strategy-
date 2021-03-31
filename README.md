@@ -1,4 +1,4 @@
-# Neurone-network-that-applies-a-trending-strategy-
+# Neurone-network-that-applies-a-tading-strategy-
 Node js &amp;  python
 
 
